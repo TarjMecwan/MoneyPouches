@@ -1,0 +1,17 @@
+cooldown: '&cPlease wait until the current pouch opening has finished before opening
+  another one!'
+no-permission: '&cNo permission'
+reload-config: '&aReloaded config.'
+money-receive: '&e&lPouches &f&l» &bYou opened a pouch and received.. &6$%payment%.'
+numberformatexception: '&cThis item is broken, please report to an admin (NumberFormatException)'
+low-range-above-high-range: '&cThis item is broken, please report to an admin (low
+  range is higher (or equal to) than high range)'
+gui-shop-charge: '&aYou have been charged $%payment% for a money pouch.'
+not-enough-money: '&cYou need $%payment% for this.'
+title:
+  moneysymbol: $
+  moneycolor: '&a'
+  blockedcolor: '&5&k'
+  subtitle: '&fOpening...'
+item-receive: ''
+item-give: ''

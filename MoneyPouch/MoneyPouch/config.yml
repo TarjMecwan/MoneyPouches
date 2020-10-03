@@ -1,0 +1,104 @@
+pouches:
+  tier:
+    '1':
+      name: '&a&lMoney Pouch'
+      item: ENDER_CHEST
+      pricerange:
+        from: '1000'
+        to: '10000'
+      lore:
+      - '&a&lRange: &7$1000 - $10000'
+      - ''
+      - '&7This mysterious pouch can grant'
+      - '&7fortunes or disappointments'
+      - ''
+      - '&7Right click this pouch to gain'
+      - '&7a random amount of money'
+      - ''
+      - '&b&lTier Level: &71'
+    '2':
+      name: '&a&lMoney Pouch'
+      item: ENDER_CHEST
+      pricerange:
+        from: '10000'
+        to: '50000'
+      lore:
+      - '&a&lRange: &7$10000 - $50000'
+      - ''
+      - '&7This mysterious pouch can grant'
+      - '&7fortunes or disappointments'
+      - ''
+      - '&7Right click this pouch to gain'
+      - '&7a random amount of money'
+      - ''
+      - '&b&lTier Level: &72'
+    '3':
+      name: '&a&lMoney Pouch'
+      item: ENDER_CHEST
+      pricerange:
+        from: '50000'
+        to: '150000'
+      lore:
+      - '&a&lRange: &7$50000 - $150000'
+      - ''
+      - '&7This mysterious pouch can grant'
+      - '&7fortunes or disappointments'
+      - ''
+      - '&7Right click this pouch to gain'
+      - '&7a random amount of money'
+      - ''
+      - '&b&lTier Level: &73'
+    '4':
+      name: '&a&lMoney Pouch'
+      item: ENDER_CHEST
+      pricerange:
+        from: '200000'
+        to: '500000'
+      lore:
+      - '&a&lRange: &7$200000 - $500000'
+      - ''
+      - '&7This mysterious pouch can grant'
+      - '&7fortunes or disappointments'
+      - ''
+      - '&7Right click this pouch to gain'
+      - '&7a random amount of money'
+      - ''
+      - '&b&lTier Level: &74'
+    '5':
+      name: '&a&lMoney Pouch'
+      item: ENDER_CHEST
+      pricerange:
+        from: '50000'
+        to: '2000000'
+      lore:
+      - '&a&lRange: &7$50000 - $2000000'
+      - ''
+      - '&7This mysterious pouch can grant'
+      - '&7fortunes or disappointments'
+      - ''
+      - '&7Right click this pouch to gain'
+      - '&7a random amount of money'
+      - ''
+      - '&b&lTier Level: &75'
+  sound:
+    enabled: true
+    opensound: FIREWORK_LAUNCH
+    revealsound: ANVIL_LAND
+    endsound: EXPLODE
+  title:
+    speedintick: 10
+shop:
+  enabled: false
+  buyable:
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  prices:
+    '1': '6000'
+    '2': '30000'
+    '3': '110000'
+    '4': '380000'
+    '5': '1200000'
+  inventoryname: '&9Pouch Dealer'
